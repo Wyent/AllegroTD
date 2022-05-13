@@ -1,0 +1,75 @@
+Outline
+
+AOE tower
+- medium speed
+- medium damage
+- small range
+- medium cost
+- upgrade has lingering aoe (fire pitch)
+
+Single target tower
+- high speed
+- low damage
+- medium range
+- low cost
+- upgrade increases targets
+
+Burst tower
+- low speed
+- high damage
+- high range
+- high cost
+- deals full damage ignoring armor
+
+Slowing tower
+- medium speed
+- low damage
+- medium range
+- medium cost
+- upgrade increases slow
+
+Anti air tower
+- medium speed
+- high damage
+- high range
+- high cost
+- upgrade creates bola ability 
+  - stops flying units and let's ground towers attack
+     them
+
+Aura tower
+Buffs nearby towers
+2 branches of upgrades
+- upgrade improves damage
+- upgrade improves speed
+
+
+Uruk'khai
+- high health 
+- medium speed
+- medium collision
+
+Goblin
+- low health
+- high speed
+- low collision
+
+Troll
+- high health
+- low speed
+- high collision
+
+Balrog
+- high health
+- medium speed
+- high collision
+
+Nazgul
+- medium speed
+- high health
+- low collision
+
+Wolf riders
+- high speed
+- medium health
+- medium collision
